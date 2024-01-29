@@ -19,10 +19,6 @@ The 3d Animation Code present witihin this progect is from and was based on the 
 
 You can find below GIFs showcasing the simulated wave and particle interference patterns:
 
-![](https://github.com/AyomideOjo/DoubleSlitExperiment/blob/main/images/single_wave_-_animated_3d.gif)
-
-![](https://github.com/AyomideOjo/DoubleSlitExperiment/blob/main/images/double_slit_no_diffraction_-_animated_3d.gif)
-
 ![](https://github.com/AyomideOjo/DoubleSlitExperiment/blob/main/one_wave_slit_none_animated_wall.gif)
 
 ![](https://github.com/AyomideOjo/DoubleSlitExperiment/blob/main/two_wave_slit_none_animated_wall.gif)
