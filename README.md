@@ -16,8 +16,6 @@ In this project, I've simulated the wave and particle interference patterns remi
 
 You can find below GIFs showcasing the simulated wave and particle interference patterns:
 
-1. [Insert GIF 1 Title](https://github.com/AyomideOjo/DoubleSlitExperiment/blob/main/images/double_slit_diffraction_-_animated_3d.gif)
-2. [Insert GIF 2 Title](URL_of_GIF_2)
-3. [Insert GIF 3 Title](URL_of_GIF_3)
+![](https://github.com/AyomideOjo/DoubleSlitExperiment/blob/main/images/double_slit_diffraction_-_animated_3d.gif)
 
 Feel free to explore the intricacies of wave-particle duality and the fascinating behavior observed in the double-slit experiment through these simulations.
