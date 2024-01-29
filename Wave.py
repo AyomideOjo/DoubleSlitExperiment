@@ -118,7 +118,7 @@ def main(breadth, number_of_slits, slit_distance, steps, wall_distance, quality,
     for step in range(steps):
         z_over_time[:, :, step] = create_wave_pattern(waves, step, steps)
 
-    create_animated_3d_plot(x, y, z_over_time, number_of_slits, steps, quality)
+    #create_animated_3d_plot(x, y, z_over_time, number_of_slits, steps, quality)
     create_animated_wall_plot(breadth, z_over_time, number_of_slits, steps)
 
 close = "none"
