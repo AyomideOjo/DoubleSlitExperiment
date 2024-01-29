@@ -12,6 +12,9 @@ The double-slit experiment is a cornerstone in quantum mechanics, demonstrating 
 
 In this project, I've simulated the wave and particle interference patterns reminiscent of the famous double-slit experiment. Using [insert your programming language and libraries/frameworks used], I've created visualizations that illustrate the intriguing phenomena observed in quantum mechanics.
 
+### Citation
+The 3d Animation Code present witihin this progect is from and was based on the project repository found on GitHub at: [https://github.com/Dementophobia](https://github.com/Dementophobia)
+
 ### Simulation GIFs
 
 You can find below GIFs showcasing the simulated wave and particle interference patterns:
