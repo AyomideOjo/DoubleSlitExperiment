@@ -17,7 +17,7 @@ The 3d Animation Code present witihin this progect is from and was based on the 
 
 ### Simulation GIFs
 
-You can find below GIFs showcasing the simulated wave and particle interference patterns:
+Please find below GIFs showcasing the simulated wave and particle interference patterns:
 
 ![](https://github.com/AyomideOjo/DoubleSlitExperiment/blob/main/one_wave_slit_none_animated_wall.gif)
 
